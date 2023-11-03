@@ -14,9 +14,9 @@
    - How to architectect better data system 
 - 📫 Here's how you can reach me: [LinkedIn](https://www.linkedin.com/in/bebhushans/)
 - 🤘 Here are my Open Source contributions so far: I keep building projects, here are some
-  - [YouTube Analysis End-To-End Data Engineering Project using Python and AWS] ==> Add Link
-  - [Twitter Data Pipeline using Airflow] ==> Add Link
-  - [Stock Market Real-Time Data Processing Using Kafka] ==> Add Link
+  - [YouTube Analysis End-To-End Data Engineering Project using Python and AWS](https://github.com/bhushansatpaise/dataengineering-youtube-analysis-project)
+  - [Twitter Data Pipeline using Airflow](https://github.com/bhushansatpaise/twitter-airflow-data-engineering-project)
+  - [Stock Market Real-Time Data Processing Using Kafka](https://github.com/bhushansatpaise/stock-market-kafka-data-engineering-project)
 - 📝 Here are my most recent blogs:
    - Medium
      
