@@ -18,7 +18,7 @@
   - [Twitter Data Pipeline using Airflow](https://github.com/bhushansatpaise/twitter-airflow-data-engineering-project)
   - [Stock Market Real-Time Data Processing Using Kafka](https://github.com/bhushansatpaise/stock-market-kafka-data-engineering-project)
 - 📝 Here are my most recent blogs:
-   - Medium
+   - Medium - [click here](https://medium.com/@bhushansatpaise7)
      
 - My Certifications and Courses
   - [Academy Accreditation - Databricks Lakehouse Fundamentals](https://credentials.databricks.com/ca009a26-8323-4803-a2b2-7c8a1b3aae03#gs.0j89pt)
