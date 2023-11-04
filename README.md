@@ -21,10 +21,9 @@
    - Medium
      
 - My Certifications and Courses
-  -
-  -
-  -
-  -
-  -
+  - [Academy Accreditation - Databricks Lakehouse Fundamentals](https://credentials.databricks.com/ca009a26-8323-4803-a2b2-7c8a1b3aae03#gs.0j89pt)
+  - [Advanced SQL - Kaggle Certificate](https://www.kaggle.com/learn/certification/bhushansatpaise/advanced-sql)
+  - [Introduction to Azure SQL - Microsoft Course](https://learn.microsoft.com/en-us/users/bhushanssatpaise-9571/achievements/ejsaat4p)
+  - [Introduction to data engineering on Azure - Microsoft Course](https://learn.microsoft.com/en-us/users/bhushanssatpaise-9571/achievements/3xykc7vh)
   
 If you want to talk to me or want to discuess something then feel free to ping on LinkedIn.
